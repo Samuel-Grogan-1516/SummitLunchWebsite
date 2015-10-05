@@ -1,0 +1,19 @@
+Doctype=html>
+ <html lang="en">
+	<head>
+		<meta charset="UTF-8"></meta>
+		<meta name="keywords" content=""></meta>
+			<title> Lunch </title>
+				<div class="title">
+	</head>
+	<body>
+		<h1>Summit Off-Campus Lunch Guide</h1>
+			<div class="span">
+				<span>
+					<p></p>
+				</span>
+				<style>
+				 .title {HEIGHT: 100px; COLOR: 213FB4; TEXT-ALIGN: center}
+				</style>
+	</body>			
+ </html>
